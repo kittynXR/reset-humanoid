@@ -1,0 +1,37 @@
+{
+  "name": "cátte — Reset Humanoid VPM Repository",
+  "author": "kittyn",
+  "url": "https://reset-humanoid.kittyn.cat/index.json",
+  "id": "cat.kittyn.resethumanoid",
+  "packages": {
+    "cat.kittyn.resethumanoid": {
+      "versions": {
+        "1.0.3": {
+          "name": "cat.kittyn.resethumanoid",
+          "displayName": "cátte — Reset Humanoid",
+          "version": "1.0.3",
+          "unity": "2019.4",
+          "description": "Simple tool to reset the pose of a humanoid animator.",
+          "author": {
+            "name": "kittyn",
+            "email": "cat@kittyn.cat",
+            "url": "https://kittyn.cat"
+          },
+          "license": "MIT",
+          "dependencies": {},
+          "vpmDependencies": {},
+          "keywords": [
+            "kittyn",
+            "catte",
+            "unity",
+            "tool",
+            "humanoid",
+            "animation"
+          ],
+          "url": "https://github.com/kittynXR/cat.kittyn.resethumanoid/releases/download/v1.0.3/cat.kittyn.resethumanoid-1.0.3.zip",
+          "samples": []
+        }
+      }
+    }
+  }
+}
