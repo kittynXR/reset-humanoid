@@ -1,7 +1,7 @@
 {
   "name": "cat.kittyn.resethumanoid",
   "displayName": "cátte — Reset Humanoid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple tool to reset the pose of a humanoid animator.",
   "gitDependencies": {},
   "vpmDependencies": {},
